@@ -1,0 +1,11 @@
+{
+  "name": "action-text-example",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "actiontext": "https://github.com/kobaltz/actiontext"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
